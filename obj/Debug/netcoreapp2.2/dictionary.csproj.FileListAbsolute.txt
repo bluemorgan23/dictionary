@@ -1,0 +1,11 @@
+/Users/blue/Projects/NSS/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.deps.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.runtimeconfig.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.runtimeconfig.dev.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.pdb
+/Users/blue/Projects/NSS/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.csprojAssemblyReference.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.csproj.CoreCompileInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.AssemblyInfoInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.AssemblyInfo.cs
+/Users/blue/Projects/NSS/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.pdb
